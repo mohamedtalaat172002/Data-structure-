@@ -1,0 +1,16 @@
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.exe
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.dll
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\bin\Debug\net5.0\ref\Dictionary.dll
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.dll
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+C:\Users\Hardware Store\source\repos\Data structure in c#\Dictionary\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache
