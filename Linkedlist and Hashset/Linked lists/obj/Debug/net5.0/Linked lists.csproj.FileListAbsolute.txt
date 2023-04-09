@@ -1,0 +1,16 @@
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\bin\Debug\net5.0\Linked lists.exe
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\bin\Debug\net5.0\Linked lists.deps.json
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\bin\Debug\net5.0\Linked lists.runtimeconfig.json
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\bin\Debug\net5.0\Linked lists.runtimeconfig.dev.json
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\bin\Debug\net5.0\Linked lists.dll
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\bin\Debug\net5.0\ref\Linked lists.dll
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\bin\Debug\net5.0\Linked lists.pdb
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\obj\Debug\net5.0\Linked lists.csproj.AssemblyReference.cache
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\obj\Debug\net5.0\Linked lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\obj\Debug\net5.0\Linked lists.AssemblyInfoInputs.cache
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\obj\Debug\net5.0\Linked lists.AssemblyInfo.cs
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\obj\Debug\net5.0\Linked lists.csproj.CoreCompileInputs.cache
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\obj\Debug\net5.0\Linked lists.dll
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\obj\Debug\net5.0\ref\Linked lists.dll
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\obj\Debug\net5.0\Linked lists.pdb
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Linked lists\obj\Debug\net5.0\Linked lists.genruntimeconfig.cache

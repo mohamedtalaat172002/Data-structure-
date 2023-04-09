@@ -1,0 +1,16 @@
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\bin\Debug\net5.0\Hash set.exe
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\bin\Debug\net5.0\Hash set.deps.json
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\bin\Debug\net5.0\Hash set.runtimeconfig.json
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\bin\Debug\net5.0\Hash set.runtimeconfig.dev.json
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\bin\Debug\net5.0\Hash set.dll
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\bin\Debug\net5.0\ref\Hash set.dll
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\bin\Debug\net5.0\Hash set.pdb
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\obj\Debug\net5.0\Hash set.csproj.AssemblyReference.cache
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\obj\Debug\net5.0\Hash set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\obj\Debug\net5.0\Hash set.AssemblyInfoInputs.cache
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\obj\Debug\net5.0\Hash set.AssemblyInfo.cs
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\obj\Debug\net5.0\Hash set.csproj.CoreCompileInputs.cache
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\obj\Debug\net5.0\Hash set.dll
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\obj\Debug\net5.0\ref\Hash set.dll
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\obj\Debug\net5.0\Hash set.pdb
+C:\Users\Hardware Store\source\repos\Linkedlist and Hashset\Hash set\obj\Debug\net5.0\Hash set.genruntimeconfig.cache
